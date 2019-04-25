@@ -10,7 +10,7 @@ I incorporated my work from this semester into my personal online portfolio with
 ### Sharing my Work
 I shared a screenshot of my most recent project on my Instagram story with a link to the actual piece.  I chose Instagram because I thought it would reach the most expansive group of peers.  Within a few minutes of having this post up, I already received supportive feedback from some close friends!
 
-![Screenshot](IMG_0464.PNG?raw=true | width=100)
+![Screenshot](IMG_0464.PNG?raw=true "Screenshot")
 
 
 ### Reflection
